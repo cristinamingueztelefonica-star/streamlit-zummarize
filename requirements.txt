@@ -1,4 +1,12 @@
+# Interfaz web
 streamlit>=1.36
+
+# Motor de IA
 torch
-transformers>=4.40,<5
+
+# Modelos y tokenizadores
+transformers==4.44.2
+# transformers>=4.40,<5
 sentencepiece
+
+
